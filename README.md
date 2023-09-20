@@ -37,7 +37,13 @@ private String color; // Como notamos el atributo es una propiedad y es color ma
 
 #
 
-#### Clase
+#### La Abstracción 
 
-Es el modelo sobre el cual se construira nuestro objeto
+se trata de analizar objetos de forma independiente, sus propiedades, características y comportamientos, para abstraer su composición y generar un modelo, lo que traducimos a código como clases.
+
+#### Las Clases
+
+son los modelos sobre los cuales construimos nuestros objetos, es decir, las clases son los “moldes” que nos permiten generar objetos. Cada clase debe tener identidad (con un nombre de clase único usando Upper Camel Case), estado (con sus atributos) y comportamiento (con sus métodos y operaciones).
+
+
 
