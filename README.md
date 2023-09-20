@@ -29,7 +29,7 @@ serán todas las operaciones de nuestros objetos que solemos llamar usando verbo
 
 * un ejemplo pequeño :
 
-public class camisa{
+public class Camisa{
 
 private String color; // Como notamos el atributo es una propiedad y es color mas no verde 
 
