@@ -45,5 +45,13 @@ se trata de analizar objetos de forma independiente, sus propiedades, caracterí
 
 son los modelos sobre los cuales construimos nuestros objetos, es decir, las clases son los “moldes” que nos permiten generar objetos. Cada clase debe tener identidad (con un nombre de clase único usando Upper Camel Case), estado (con sus atributos) y comportamiento (con sus métodos y operaciones).
 
+#
+
+#### Metodo Constructor
+
+El Método Constructor es el primer método que se ejecuta por defecto cuando creamos una clase, nos permite crear nuevas instancias de una clase. Lo invocamos con la palabra reservada new seguida del nombre con el que inicializamos la clase y paréntesis.
+
+// nombreDeLaInstancia = new MétodoConstructor();
+myDoctor = new Doctor();
 
 
