@@ -14,6 +14,8 @@ public class Main {
     doctor.name = "Carlos Santos";
     doctor.showName();
 
+    Doctor doctorr = new Doctor("Carlitos");
+
 
     }
 }
