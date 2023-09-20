@@ -22,8 +22,15 @@ son todas las cosas físicas o conceptuales que tienen propiedades y comportamie
 #### Las Propiedades
 o atributos son las características de nuestros objetos. Estos atributos siempre serán sustantivos y pueden tener diferentes valores que harán referencia a nombres, tamaños, formas y estados.
 
-Por ejemplo: 
-* el color del auto es verde o rojo (color es el atributo, verde y rojo son posibles valores para este atributo).
+Recuerda que las propiedades tambien pueden llamarse atributos, seran sustantivos, como por ejemplo el nombre, tamaño, forma, estado de un elemento, en un ejemplo mas realista en este caso seria por ejemplo mucha gente pensaria que decir el color de un automovil es verde y tomar la palabra verde como propiedad pero no en los objetos realmente la propiedad seria el color y ya decir verde seria la respuesta a esa propiedad 
+
+un ejemplo pequeño :
+
+public class camisa{
+
+private String color; // Como notamos el atributo es una propiedad y es color mas no verde 
+
+}
 
 #### Los Comportamientos o métodos
 serán todas las operaciones de nuestros objetos que solemos llamar usando verbos o sustantivos y verbos. Por ejemplo: los métodos del objeto sesión pueden ser login(), logout(), makeReport(), etc.
