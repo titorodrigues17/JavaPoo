@@ -7,12 +7,14 @@ Este paradigma se compone de 4 elementos (que analizaremos a fondo más adelante
 * Propiedades
 * Métodos
 * Objetos
+
 Además, se basa en los siguientes 4 pilares:
 
 * Encapsulamiento
 * Abstracción
 * Herencia
 * Polimorfismo
+# 
 
 #### Los Objetos 
 son todas las cosas físicas o conceptuales que tienen propiedades y comportamientos. Por ejemplo: usuario, sesión, auto, etc.
