@@ -84,3 +84,5 @@ public class Main {
         }
 
 #
+
+Cuando usamos “static final” se dice que creamos una constante de clase, un atributo común a todos los objetos de esa clase. b) final: en este contexto indica que una variable es de tipo constante: no admitirá cambios después de su declaración y asignación de valor.
