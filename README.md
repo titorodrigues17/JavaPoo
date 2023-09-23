@@ -61,7 +61,9 @@ myDoctor = new Doctor();
 Los métodos y variables estáticos nos ayudan a ejecutar o conseguir algún código desde clases no han sido instanciadas, ya que sus valores se guardan en la memoria de nuestro programa, no en diferentes objetos instanciados a través de una clase.
 
 ejemplo 
+/*
 
+*/
 public class Calculadora {
     public static int sumar(int a, int b){
         return a + b;
